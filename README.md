@@ -1,4 +1,4 @@
-# Crafting Interpreter: Lox programming language C++ implementation
+# Crafting Interpreters: Lox programming language C++ implementation
 
 ### How to build 
     $ mkdir build && cd build
